@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://BlueStar2333.github.io/al-folio/sitemap.xml
