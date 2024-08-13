@@ -43,6 +43,17 @@
       "endDate": "2022-05-01",
       "score": "10",
       "courses": ["Dynamics and Control Laboratory"]
+    },
+    {
+      "institution": "Arizona State University",
+      "location": "Arizona, USA",
+      "url": "",
+      "area": "Robotics and Autonomous Systems (Mechanical and Aerospace Engineering)",
+      "studyType": "M.S.",
+      "startDate": "2023-01-01",
+      "endDate": "Present",
+      "score": "10",
+      "courses": ["Neuromuscular Control and Human Robotics Laboratory"]
     }
   ],
   "education2": [
@@ -53,7 +64,7 @@
       "area": "Robotics and Autonomous Systems (Mechanical and Aerospace Engineering)",
       "studyType": "M.S.",
       "startDate": "2023-01-01",
-      "endDate": "2024-08-01",
+      "endDate": "Present",
       "score": "10",
       "courses": ["Neuromuscular Control and Human Robotics Laboratory"]
     }
@@ -149,7 +160,7 @@
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "C,  C++,  Matlab,  Python,  R,  FPGA,  VB,  PLC",
+        "C,  C++,  Matlab,  Python,  R,  FPGA,  VB,  PLC"
       ]
     },
     {

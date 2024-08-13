@@ -5,7 +5,7 @@ title: cv
 nav: true
 nav_order: 5
 cv_pdf: example_pdf.pdf
-description: This is my personal CV.7
+description: This is my personal CV.8
 toc:
   sidebar: left
 ---
