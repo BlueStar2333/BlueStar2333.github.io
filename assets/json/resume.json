@@ -32,7 +32,7 @@
       "highlights": ["Helped students combat COVID-19, applied for and distributed epidemic prevention supplies to students.", "Helped freshmen integrate into American campus life faster.", "Organized outdoor activities for holidays."]
     }
   ],
-  "education1": [
+  "education": [
     {
       "institution": "Southern Illinois University Edwardsville",
       "location": "Illinois, USA",
@@ -56,29 +56,14 @@
       "courses": ["Neuromuscular Control and Human Robotics Laboratory"]
     }
   ],
-  "education2": [
-    {
-      "institution": "Arizona State University",
-      "location": "Arizona, USA",
-      "url": "",
-      "area": "Robotics and Autonomous Systems (Mechanical and Aerospace Engineering)",
-      "studyType": "M.S.",
-      "startDate": "2023-01-01",
-      "endDate": "Present",
-      "score": "10",
-      "courses": ["Neuromuscular Control and Human Robotics Laboratory"]
-    }
-  ],
-  "awards1": [
+  "awards": [
     {
       "title": "Member of The Hornor Society of Phi Kappa Phi",
       "date": "2021-01-01",
       "awarder": "",
       "url": "",
       "summary": ""
-    }
-  ],
-  "awards2": [
+    },
     {
       "title": "The University Dean’s List",
       "date": "2021-03-01",
@@ -89,43 +74,43 @@
   ],
   "certificates": [
     {
-      "name": "Project Management Essentials",
-      "date": "2021-08-01",
+      "name": "Project Management",
+      "date": "2021-08",
       "issuer": "Project Management Essentials Management & Strategy Institute",
       "url": "",
       "icon": "fa-solid fa-clipboard-check"
     },
     {
       "name": "Lean Six Sigma",
-      "date": "2021-08-01",
+      "date": "2021-08",
       "issuer": "Lean Six Sigma White Belt Management & Strategy Institute",
       "url": "",
       "icon": "fa-solid fa-clipboard-check"
     },
     {
-      "name": "Crack Leaked Password Database",
-      "date": "2021-08-01",
+      "name": "Crack Leaked Password",
+      "date": "2021-08",
       "issuer": "Crack Leaked Password Database Virtual Program Forage",
       "url": "",
       "icon": "fa-solid fa-clipboard-check"
     },
     {
       "name": "Machine Learning",
-      "date": "2022-09-01",
+      "date": "2022-09",
       "issuer": "Modeling, and Simulation Principles Massachusetts Institute of Technology",
       "url": "",
       "icon": "fa-solid fa-clipboard-check"
     },
     {
       "name": "Supervised Machine Learning",
-      "date": "2022-11-01",
+      "date": "2022-11",
       "issuer": "Regression and Classification Stanford University",
       "url": "",
       "icon": "fa-solid fa-clipboard-check"
     },
     {
       "name": "Modern Robotics",
-      "date": "2022-11-01",
+      "date": "2022-11",
       "issuer": "Foundations of Robot Motion Northwestern University",
       "url": "",
       "icon": "fa-solid fa-clipboard-check"
