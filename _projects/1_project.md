@@ -12,11 +12,7 @@ In this project, we explored the integration of deep learning into the RRT* (Rap
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <embed src="unix assets/pdf/MAE-598.pdf" type="application/pdf" width=800 height=800>
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        <embed src="unix assets/pdf/MAE-598.pdf" type="application/pdf" width=800 height=400>
     </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
 </div>
 
