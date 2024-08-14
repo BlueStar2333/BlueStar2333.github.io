@@ -32,46 +32,6 @@
       "highlights": ["Helped students combat COVID-19, applied for and distributed epidemic prevention supplies to students.", "Helped freshmen integrate into American campus life faster.", "Organized outdoor activities for holidays."]
     }
   ],
-  "education": [
-    {
-      "institution": "Southern Illinois University Edwardsville",
-      "location": "Illinois, USA",
-      "url": "",
-      "area": "Mechatronics and Robotics Engineering",
-      "studyType": "B.S.",
-      "startDate": "2019-08-01",
-      "endDate": "2022-05-01",
-      "score": "10",
-      "courses": ["Dynamics and Control Laboratory"]
-    },
-    {
-      "institution": "Arizona State University",
-      "location": "Arizona, USA",
-      "url": "",
-      "area": "Robotics and Autonomous Systems (Mechanical and Aerospace Engineering)",
-      "studyType": "M.S.",
-      "startDate": "2023-01-01",
-      "endDate": "Present",
-      "score": "10",
-      "courses": ["Neuromuscular Control and Human Robotics Laboratory"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Member of The Hornor Society of Phi Kappa Phi",
-      "date": "2021-01-01",
-      "awarder": "",
-      "url": "",
-      "summary": ""
-    },
-    {
-      "title": "The University Dean’s List",
-      "date": "2021-03-01",
-      "awarder": "",
-      "url": "",
-      "summary": ""
-    }
-  ],
   "certificates": [
     {
       "name": "Project Management",
