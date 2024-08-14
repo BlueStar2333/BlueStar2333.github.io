@@ -48,6 +48,7 @@
   <div id="{{ entry.key }}" class="{% if site.enable_publication_thumbnails %}col-sm-8{% else %}col-sm-10{% endif %}">
     <!-- Title -->
     <div class="title">{{ entry.title }}</div>
+    <div>{{ entry.author }}</div>
     <!-- Author -->
     <div class="author">
       {% assign author_array_size = entry.author_array | size %}
@@ -142,11 +143,6 @@
           data-content="{{ entry.annotation | escape }}"
         >
         </i>
-      {% endif %}
-      {% if entry.author %}
-        <div class="ml-1">
-        {{entry.author}}
-        </div>
       {% endif %}
     </div>
 
