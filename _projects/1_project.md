@@ -12,7 +12,7 @@ In this project, we explored the integration of deep learning into the RRT* (Rap
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <iframe id="myEmbedOne" width=800 height=400>
+        <iframe id="myEmbedOne" width=800 height=400 />
     </div>
     <script type="text/javascript">
         var pdfUrl = 'https://bluestar2333.github.io/assets/pdf/MAE-598.pdf'
