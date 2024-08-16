@@ -11,6 +11,6 @@ giscus_comments: true
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <embed src="assets/pdf/EEE-549.pdf" type="application/pdf" width=800 height=400>
+        <iframe id="myEmbed" src="https://bluestar2333.github.io/assets/pdf/EEE-549.pdf" width=800 height=400>
     </div>
 </div>
