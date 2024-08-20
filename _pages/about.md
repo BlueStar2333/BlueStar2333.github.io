@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 subtitle: One who doesn’t seek the easy way will succeed, and one who doesn’t shy away from difficulties will advance.

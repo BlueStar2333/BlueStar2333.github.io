@@ -2,7 +2,7 @@
 layout: page
 title: Evaluating Efficiency Improvements on RRT* Using Deep Learning
 description: 
-img: assets/img/12.jpg
+img: assets/img/p1.png
 importance: 1
 category: work
 related_publications: false
@@ -12,7 +12,7 @@ In this project, we explored the integration of deep learning into the RRT* (Rap
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <iframe id="myEmbedOne" src="https://bluestar2333.github.io/assets/pdf/MAE-598.pdf" width=800 height=400 />
+        <iframe id="myEmbedOne" src="https://bluestar2333.github.io/assets/pdf/MAE-598.pdf" width=900 height=1000 />
     </div>
 </div>
 
