@@ -24,6 +24,7 @@ In this project, we created a program for the PLC and HMI to control the trainer
 The 3 possible operations are as follows:
 
 Operation1
+
     -Place a block on the conveyor belt blocking the left optical sensor and wait for the start button to be pressed to begin the conveyor moving to the right.
     -When the block reaches the right optical sensor, continue moving the conveyor until the block passes the right optical sensor. 
     -When the block is at the extreme right side of the conveyor, stop the conveyor, pause for 1 second, then extend the right pneumatic cylinder.
@@ -33,9 +34,10 @@ Operation1
     -When the block reaches the left optical sensor, continue moving the conveyor until the block passes the left optical sensor.
     -When the block is at the extreme left side of the conveyor, stop the conveyor and pause for 1 second.
     -When the 1 second timer has elapsed, move the block back to the right side of the conveyor.
--Complete this cycle 3 times.
+    -Complete this cycle 3 times.
 
 Operation 2
+
     -Place a block on the conveyor belt blocking the left optical sensor and wait for the start button to be pressed to begin the conveyor moving to the right.
     -When the block reaches the right optical sensor, stop the conveyor, pause for 1 second, then extend the right pneumatic cylinder.
     -When the right pneumatic cylinder is fully extended, hold it in that position for 1 second.
@@ -44,12 +46,14 @@ Operation 2
     -Perform this cycle 3 times.
 
 Operation 3
+
     -Place a block on the conveyor belt blocking the left optical sensor and wait for the start button to be pressed to begin the conveyor moving to the right.
     -When the block reaches the right optical sensor, use the right optical sensor to measure the length of the block.
     -When the block has passed the right optical sensor, stop the conveyor and visually display the calculated length of the block.
 
 
 Error conditions
+
     -If at any time the block interrupts the middle sensor on the conveyor:
         o Extend the middle pneumatic cylinder to knock the block off the conveyor, then retract it.
         o Stop the conveyor.
