@@ -13,7 +13,7 @@ In this project, we created a program for the PLC and HMI to control the trainer
 
     -A visually appealing layout
     -A start button for each of 3 possible operations that the equipment can perform.
-    oAll the start buttons should be disabled anytime an operation is being performed.
+    -All the start buttons should be disabled anytime an operation is being performed.
     -A label showing the current operation being performed.
     -An indicator light showing that a process in being performed.
     -An indicator light showing that the current process is complete.
